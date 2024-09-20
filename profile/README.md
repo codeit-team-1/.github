@@ -1,16 +1,14 @@
 <br/><br/><br/>
 <div align='center' ><img src='./source/img/logo@3x.png' alt="로고"/>
 
-나만의 링크 모아두는 저장소 서비스
+나만의 링크 모아두는 저장소 서비스 [Linkbrary에서 Link를 모아보세요](https://l1nkbrary.netlify.app/) ☘️
 </div>
 
-## 바로가기
-
-### [Linkbrary에서 Link를 모아보세요](https://l1nkbrary.netlify.app/) ☘️
-
+<br/><br/><br/>
 
 ## 개발 기간
 - 2024.08.29 ~ 2024.09.19 ( 2주 )
+<br/>
 
 ## 팀원
 
@@ -18,6 +16,8 @@
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 |SeongGu Kang<br/>[@L1m3Kun](https://github.com/L1m3Kun)|woosung kim<br/>[@me92years](https://github.com/me92years)|DasomKim<br/>[@KimDasom521](https://github.com/KimDasom521)|[@youmdang](https://github.com/youmdang)|Jeongmin Oh<br/>[@ojm51](https://github.com/ojm51)|
 | 회원가입 및 로그인<br/>OAuth2.0(카카오) | 링크 카드 및 링크 메뉴 | 즐겨찾기 | 랜딩 화면<br/>페이지 레이아웃<br/>링크 검색 | 링크 추가<br/>폴더 및 폴더 메뉴|
+
+<br/>
 
 ## 미리보기
 
@@ -39,37 +39,31 @@
 - 즐겨찾기
 
 <img style='width: 333px;' src='./source/gif/favorite-page.gif' alt='즐겨찾기 미리보기'/>
-
+<br/>
 
 ## 기술 스택
 
 ### 개발
-<!-- TypeScript -->
+
+<div>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<!-- ReactJs -->
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-<!-- NextJs -->
 <img src="https://img.shields.io/badge/NEXT.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<!-- TailwindCSS -->
 <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<!-- Axios --> 
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
-<!-- @Tanstack/React-Query -->
 <img src="https://img.shields.io/badge/TanstackReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
-<!-- React-Hook-Form -->
 <img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
-<!-- ts-pattern -->
 <img src="https://img.shields.io/badge/TsPattern-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+</div>
 
 ### 협업
-<!-- ESLint -->
+
+<div>
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
-<!-- Prettier -->
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>
-<!-- Git -->
 <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/>
-<!-- GitHub -->
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</div>
 
 ## 회고
 
